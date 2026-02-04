@@ -28,10 +28,10 @@ https://github.com/user-attachments/assets/baeca443-a8fe-47bb-86a7-0dabc76720af
 
 ##  Machine Learning Model
 
-- **Algorithm Used:** Random Forest Regressor (Hyperparameter Tuned)  
+- **Algorithm Used:** Linear Regression 
 - **Target Variable:** `Selling_Price`  
-- **Evaluation Metric:** R² Score ≈ 0.95  
-- **Feature Scaling:** StandardScaler  
+
+- **Feature Scaling:** MinMaxScalar  
 
 ###  Model Input Features (in order)
 
@@ -136,7 +136,7 @@ https://pythonprediction.pythonanywhere.com/predict
 3. Perform feature engineering  
 4. Encode categorical variables  
 5. Split into training and testing sets  
-6. Train Random Forest model  
+6. Train Linear Regression 
 7. Tune hyperparameters using GridSearchCV  
 8. Save trained model using Pickle  
 
