@@ -71,15 +71,28 @@ The dataset contains historical car sales data with the following attributes:
 ## 🏗️ Project Structure
 
 car-price-prediction/
+
 │
+
 ├── model_training.ipynb
+
+
 ├── car_price_model.pkl
+
 ├── app.py
+
 ├── car_data.csv
+
 ├── templates/
+
 │ └── index.html
+
+
 ├── static/
+
 │ └── style.css
+
+
 └── README.md
 
 
