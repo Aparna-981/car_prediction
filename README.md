@@ -1,11 +1,11 @@
-# 🚗 Car Price Prediction Web App
+#  Car Price Prediction Web App
 
 A **Machine Learning–powered web application** that predicts the **resale price of a car** based on user inputs such as present price, kilometers driven, age, fuel type, seller type, and transmission.  
 The app is built using **Python, Flask, and Scikit-learn** with a clean **dark-themed UI**.
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 Predicting car resale prices is a real-world regression problem.  
 This project demonstrates an **end-to-end ML workflow**, including:
@@ -19,20 +19,20 @@ This project demonstrates an **end-to-end ML workflow**, including:
 
 ---
 
-## 🎥 Demo Video
+##  Demo Video
 
 
 https://github.com/user-attachments/assets/baeca443-a8fe-47bb-86a7-0dabc76720af
 
 
-## 🧠 Machine Learning Model
+##  Machine Learning Model
 
 - **Algorithm Used:** Random Forest Regressor (Hyperparameter Tuned)  
 - **Target Variable:** `Selling_Price`  
 - **Evaluation Metric:** R² Score ≈ 0.95  
 - **Feature Scaling:** StandardScaler  
 
-### 📊 Model Input Features (in order)
+###  Model Input Features (in order)
 
 ['Present_Price',
 'Kms_Driven',
@@ -46,7 +46,7 @@ https://github.com/user-attachments/assets/baeca443-a8fe-47bb-86a7-0dabc76720af
 
 ---
 
-## 📂 Dataset Description
+##  Dataset Description
 
 The dataset contains historical car sales data with the following attributes:
 
@@ -62,7 +62,7 @@ The dataset contains historical car sales data with the following attributes:
 
 ---
 
-## ⚙️ Technologies Used
+##  Technologies Used
 
 - **Programming Language:** Python  
 - **Machine Learning:** Scikit-learn  
@@ -74,7 +74,7 @@ The dataset contains historical car sales data with the following attributes:
 
 ---
 
-## 🏗️ Project Structure
+##  Project Structure
 
 car-price-prediction/
 
@@ -105,7 +105,7 @@ car-price-prediction/
 
 ---
 
-## 🧪 Model Training Workflow
+##  Model Training Workflow
 
 1. Load dataset  
 2. Handle missing values  
@@ -118,13 +118,13 @@ car-price-prediction/
 
 ---
 
-## 📈 Output
+## Output
 
 The application predicts the **estimated resale price of the car** based on user-provided values and displays the result instantly on the web interface.
 
 ---
 
-## ✅ Advantages
+##  Advantages
 
 - Accurate predictions  
 - Easy-to-use interface  
@@ -134,7 +134,7 @@ The application predicts the **estimated resale price of the car** based on user
 
 ---
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 
 - Add more ML models (XGBoost, Gradient Boosting)  
 - Integrate real-time car marketplace data  
@@ -144,7 +144,7 @@ The application predicts the **estimated resale price of the car** based on user
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 **Aparna N**  
 **MCA**  
