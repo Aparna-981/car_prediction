@@ -108,6 +108,14 @@ car-price-prediction/
 
 ---
 
+
+---
+
+## ▶️ How to Run the Project
+
+### Step 1: Clone the repository
+
+
 ##  Model Training Workflow
 
 1. Load dataset  
