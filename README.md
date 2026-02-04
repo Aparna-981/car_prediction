@@ -19,6 +19,15 @@ This project demonstrates an **end-to-end ML workflow**, including:
 
 ---
 
+## 🎥 Demo Video
+
+
+
+
+https://github.com/user-attachments/assets/47e181fd-a94b-45ca-a410-ae9b40508788
+
+
+
 ## 🧠 Machine Learning Model
 
 - **Algorithm Used:** Random Forest Regressor (Hyperparameter Tuned)  
