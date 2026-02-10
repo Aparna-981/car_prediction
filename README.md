@@ -109,7 +109,7 @@ car-price-prediction/
 
 ---
 
-## ▶️ How to Run the Project
+##  How to Run the Project
 
 ### Step 1: Clone the repository
 
@@ -176,6 +176,4 @@ The application predicts the **estimated resale price of the car** based on user
 
 ---
 
-## 📜 License
 
-This project is developed for **educational purposes only**.
